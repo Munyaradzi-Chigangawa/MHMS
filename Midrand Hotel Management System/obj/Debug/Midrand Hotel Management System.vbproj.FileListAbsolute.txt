@@ -1,0 +1,21 @@
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\bin\Debug\Midrand Hotel Management System.exe.config
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\bin\Debug\Midrand Hotel Management System.exe
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\bin\Debug\Midrand Hotel Management System.pdb
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\bin\Debug\Midrand Hotel Management System.xml
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.cashier.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.checkin.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.checkinlist.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.guestinfo.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.login.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.main.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.reservation.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.rooms.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.Search.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.splash.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.Resources.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.transactions.resources
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand Hotel Management System.vbproj.GenerateResource.Cache
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand Hotel Management System.exe
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand Hotel Management System.xml
+C:\Users\EMCEE\Documents\Visual Studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand Hotel Management System.pdb
+C:\Users\EMCEE\documents\visual studio 2013\Projects\Midrand Hotel Management System\Midrand Hotel Management System\obj\Debug\Midrand_Hotel_Management_System.history.resources
